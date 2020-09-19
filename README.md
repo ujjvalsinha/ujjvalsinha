@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ujjval Sinha</h1>
 <h3 align="center">A passionate Mobile Application Developer from India</h3>
 
-- 🔭 I’m currently working on **News App for iOS**
+- 🔭 I’m currently working on **YD News for iOS**
 
 - 🌱 I’m currently learning **React JS**
 

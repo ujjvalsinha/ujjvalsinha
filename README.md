@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ujjval Sinha</h1>
 <h3 align="center">A passionate Mobile Application Developer from India</h3>
 
-- 🔭 I’m currently working on **Delicuts Flesh App**
-
-- 🌱 I’m currently learning **React JS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ujjvalsinha](https://github.com/ujjvalsinha)
 
